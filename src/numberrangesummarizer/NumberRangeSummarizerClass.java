@@ -2,7 +2,7 @@ package numberrangesummarizer;
 
 import java.util.*;
 
-public class NumberRangeSummarizeClass implements NumberRangeSummarizer{
+public class NumberRangeSummarizerClass implements NumberRangeSummarizer{
 
     @Override
     public Collection<Integer> collect(String input) {
